@@ -1,0 +1,1 @@
+This is meant to be an example of a Hash Table using chaining to handle collisions. At present the Linked List class has been defined which will serve as the unsorted linked list that will handle the to be completed hash table's potential collisions.
